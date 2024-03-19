@@ -21,6 +21,8 @@ Here is a quick look
 
 https://github.com/Youssefsalem3/Slash_Product_Categorization/assets/101949937/4fa82b92-af51-4698-8aaa-5a931ac829f2
 
+For the test data i collected 15 sample from each category but this time by screenshots from the app
+
 
 
 
