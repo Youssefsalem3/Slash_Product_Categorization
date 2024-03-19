@@ -17,8 +17,11 @@ which was scraping but slash is still an mobile application so after many tries 
 Now Slash shows the brand of each product for example i can see a notebook by Dawenha so i decided to scrap dawenha instagram page for some pictures for stationary items and so on
 Till i collected roughly 200 images for each category which would have taken sometime if i kept screenshoting.
 
+Here is a quick look
 
-https://github.com/Youssefsalem3/Slash_Product_Categorization/assets/101949937/94d55024-e9b5-4347-8b76-2abb0ac4655e
+https://github.com/Youssefsalem3/Slash_Product_Categorization/assets/101949937/4fa82b92-af51-4698-8aaa-5a931ac829f2
+
+
 
 
 
